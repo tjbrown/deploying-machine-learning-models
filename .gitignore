@@ -89,6 +89,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+wpy37/
 
 # Spyder project settings
 .spyderproject
@@ -109,3 +110,5 @@ venv.bak/
 # datafiles
 train.csv
 test.csv
+
+
